@@ -1,3 +1,4 @@
+# vim:ft=make:
 .PHONY: goget
 goget:
 	@LIST="$(REQUIRE_GO)";\

@@ -1,3 +1,4 @@
+# vim:ft=make:
 .PHONY: apt
 apt:
 	@LIST="$(REQUIRE_APT)";\
